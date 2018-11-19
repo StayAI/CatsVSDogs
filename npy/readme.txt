@@ -1,2 +1,3 @@
-лАг╟обть╨цvgg16.npyнд╪Ч╥е╣╫╢кнд╪Ч╪пжп
-обть╣ьж╥ё╨http://download.tensorflow.org/models/vgg_16_2016_08_28.tar.gz
+Ф▐░Е┴█Д╦▀Х╫╫Е╔╫vgg16.npyФ√┤Д╩╤Ф■╬Е┬╟Ф╜╓Ф√┤Д╩╤Е╓╧Д╦╜
+
+Д╦▀Х╫╫Е°╟Е²─О╪ http://download.tensorflow.org/models/vgg_16_2016_08_28.tar.gz
